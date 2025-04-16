@@ -1,0 +1,29 @@
+/* Remove default list styling */
+ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+/* Style list items */
+li {
+    margin: 10px;
+}
+
+/* Style images */
+img {
+    width: 200px;
+    height: auto;
+}
+
+/* Style videos */
+video {
+    width: 300px;
+}
+footer {
+    background-color: #8b0000;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
